@@ -1,4 +1,3 @@
-![Coding Girl](https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif)
 
 # 👩‍💻 Nudrat Abbas
 
