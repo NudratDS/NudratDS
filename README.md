@@ -1,88 +1,58 @@
-
-# 👩‍💻 Nudrat Abbas
-
-**Marketing Analyst | Data Enthusiast | Freelance Specialist**  
-📍 Lahore, Pakistan  
-📊 Turning data into decisions through marketing analytics, dashboards, and storytelling.
+# Nudrat Abbas | Marketing Analytics 
+Hi! I'm **Nudrat Abbas**, a passionate **Marketing Analyst** and **Data Enthusiast** based in Lahore, Pakistan. I specialize in turning complex marketing data into actionable insights that help eCommerce and retail businesses grow.
 
 ---
 
-### 🚀 About Me
+## 👩‍💻 About Me
 
-Hi! I'm **Nudrat Abbas**, a data-driven marketing analyst with a passion for solving real-world problems using data. I help businesses understand and optimize their marketing performance using tools like **Excel**, **Power BI**, **SQL**, and **Python**.
-
-I specialize in:
-- 📉 Churn Prediction
-- 📈 Campaign Analysis
-- 🧪 A/B Testing
-- 🧲 Funnel Analysis
-- 📊 Dashboard Creation
-- 📋 Lead Scoring Models
-- 🤖 Recommendation Systems
-
-Currently building my portfolio, contributing to freelance projects, and aiming to join open-source efforts in **marketing analytics** and **data science**.
+- Data-driven marketing analyst with experience in **churn prediction**, **campaign analysis**, **A/B testing**, and **funnel optimization**.
+- Skilled in Python (Pandas, Matplotlib, Seaborn), SQL, Excel, Power BI, and dashboard storytelling.
+- Helping brands optimize marketing ROI by leveraging data to make smarter decisions.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 📊 Featured Projects
 
-- **Languages**: Python (Basics), SQL  
-- **Data Tools**: Excel, Power BI, Google Sheets, Jupyter Notebook  
-- **Libraries**: Pandas, Matplotlib, Seaborn *(Learning Scikit-learn)*  
-- **Other Tools**: Git & GitHub, Notion, Canva  
+### 1. Campaign Segmentation & Analysis
+- Segmented customers using behavioral data.
+- Analyzed campaign performance to improve targeting and ROI.
+- Tools: Python (pandas, matplotlib).
 
----
+### 2. Churn Prediction Model
+- Built logistic regression model to predict customer churn with 95% accuracy.
+- Provided actionable insights to retain high-risk customers.
+- Tools: Python (scikit-learn, seaborn).
 
-### 📂 Featured Projects
-
-📁 **Portfolio**: [DataSciencePortfolio.io/techrise35](https://www.datascienceportfol.io/techrise35)
-
-Explore dashboards, reports, and case studies showcasing my work in marketing analytics.
-
----
-
-### 🌍 Let’s Connect
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/nudrat-abbas-664378324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- 📊 [Kaggle](https://www.kaggle.com/nudratabbas)  
-- 💼 [Upwork](https://www.upwork.com/freelancers/~0184aa68131750d22a)  
-- 🌐 [Portfolio Website](https://www.datascienceportfol.io/techrise35)  
-- 📧 Email: **techrise35@gmail.com**
+### 3. Funnel Analysis & A/B Testing
+- Developed multi-step sales funnel to analyze drop-offs.
+- Conducted A/B testing on checkout variants to validate UI changes.
+- Tools: Python (statsmodels, pandas).
 
 ---
 
-### 💻 Currently Working On
+## 🛠️ Tech Stack & Tools
 
-- Building real-time dashboards in Power BI & Excel  
-- Exploring machine learning basics for marketing  
-- Engaging in Kaggle challenges  
-- Writing LinkedIn insights about marketing + data  
-
----
-
-### 💡 Fun Fact
-
-I founded **Datamind**, a data-driven marketing agency that helps businesses with:
-- 🔍 Churn Prediction
-- 🎯 Campaign Performance
-- 🎢 Funnel Analysis
-- 🧪 A/B Testing
-- 📈 Lead Scoring
-- 🤖 Recommender Systems
-- 📊 Dashboard Development
-
-Let's build smarter campaigns together!
+- Languages: Python, SQL
+- Data Tools: Excel, Power BI, Google Sheets
+- Libraries: pandas, matplotlib, seaborn, scikit-learn, statsmodels
+- Other Tools: Git, GitHub, Notion, Canva
 
 ---
 
-### 🤝 Open to Collaborate
+## 🚀 What I Offer
 
-I'm open for:
-- Freelance Projects  
-- Remote Roles  
-- Collaborations in marketing analytics  
-- Open-source contributions  
-
-Feel free to reach out!
+- **Actionable dashboards & reports** to track and optimize marketing campaigns.
+- **Predictive analytics** to improve customer retention and lifetime value.
+- **Experimentation design and analysis** including A/B testing.
+- **Data storytelling** that drives business decisions.
 
 ---
+
+## 📫 Get In Touch
+
+- Email: techrise35@gmail.com  
+- LinkedIn: [linkedin.com/in/nudratds](https://linkedin.com/in/nudratds)  
+  
+---
+
+### Let’s collaborate to build smarter marketing campaigns powered by data! 🚀
