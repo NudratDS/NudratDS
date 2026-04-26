@@ -82,9 +82,10 @@ nobody looks at — I build models that change decisions.
 
 ##  Let's Collaborate
 
-If you're building something in healthcare data and 
-need a specialist who understands both the clinical 
-side and the data science side:
+I also create custom clinical datasets for healthcare AI models, readmission prediction, fraud detection, dischargesummaries, ICD coding, LOS optimization.
+
+If you're building something in healthcare data and need a specialist who understands both the clinical side and the data science side:
+
 
 **→ Open an issue on any repo**
 **→ Or email: contact@nudratabbas.com**
