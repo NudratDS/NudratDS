@@ -62,7 +62,7 @@ nobody looks at — I build models that change decisions.
 
 | | |
 |---|---|
-|  Kaggle Master | Ranked 27th of 9,063 globally |
+|  Kaggle GrandMaster | Ranked 12th of 9,206 globally |
 |  Projects | 30+ healthcare projects delivered worldwide |
 |  Clients | Clinics · Hospitals · Health Groups · Care Networks |
 |  Compliance | HIPAA · Clinical Data Standards |
