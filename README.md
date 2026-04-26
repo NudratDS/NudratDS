@@ -28,7 +28,7 @@
 
 I'm a healthcare data scientist specialising in clinical 
 and operational analytics. I don't build dashboards 
-nobody looks at — I build models that change decisions.
+nobody looks at. I build models that change decisions.
 
 **Currently open to:**
 - Collaborating on healthcare data projects
@@ -36,9 +36,9 @@ nobody looks at — I build models that change decisions.
 - Open source healthcare analytics tools
 - EHR data analysis and modelling
 
-> *If you're working on something in healthcare data —
+> *If you're working on something in healthcare data, 
 > readmission prediction, fraud detection, patient 
-> retention, clinical NLP or population health —
+> retention, clinical NLP or population health.
 > I want to hear about it.*
 >
 > **DM me or open an issue. I respond fast.** 
