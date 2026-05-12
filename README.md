@@ -26,9 +26,7 @@
 
 ## What I Do 
 
-I'm a healthcare data scientist specialising in clinical 
-and operational analytics. I don't build dashboards 
-nobody looks at. I build models that change decisions.
+I'm a healthcare data scientist and Kaggle GrandMaster ranked #12 of 9,206 globally. I don't build dashboards nobody looks at. I find what your clinic data is hiding and turn it into decisions that change outcomes. Through The Clinical Clarity System™ every clinic gets a custom solution. Not a template. HIPAA Certified. 30+ projects delivered worldwide.
 
 **Currently open to:**
 - Collaborating on healthcare data projects
@@ -71,12 +69,13 @@ nobody looks at. I build models that change decisions.
 
 ## Featured Projects
 
-<!-- Pin your best 3 repos here -->
->  *Uploading case studies — check back soon*
->
-> In the meantime, view my full work on
-> [Kaggle](https://www.kaggle.com/nudratabbas) 
-> or visit [nudratabbas.com](https://nudratabbas.com)
+**DenialIQ** Predicting claim denials before submission. Real revenue leakage prevention.
+
+**Skin Cancer Classification** 94% accuracy on HAM10k. 7 classes. Live demo on HuggingFace.
+
+**Hospital Readmission Prediction**  MIMIC-III data. XGBoost + LightGBM. 47 clinical features.
+
+**ClinicalDx**  Discharge notes to ICD-10 codes using NLP and LLMs.
 
 ---
 
