@@ -88,6 +88,8 @@ If you're building something in healthcare data and need a specialist who unders
 
 **→ Open an issue on any repo**
 **→ Or email: contact@nudratabbas.com**
+**→Or 💬 wa.me/message/X2LUPKGE7KJYE1**
+
 
 I'm always open to projects that solve real problems 
 inside real healthcare systems. 
