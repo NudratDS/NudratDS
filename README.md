@@ -20,7 +20,12 @@
   <a href="https://nudratabbas.com">
     <img src="https://img.shields.io/badge/Website-0C0C0C?style=for-the-badge&logo=google-chrome&logoColor=C9A227"/>
   </a>
+   <a href="https://wa.me/message/X2LUPKGE7KJYE1">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp"/>
+  </a>
+
 </p>
+
 
 ---
 
