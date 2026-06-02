@@ -92,6 +92,7 @@ If you're building something in healthcare data and need a specialist who unders
 I'm always open to projects that solve real problems 
 inside real healthcare systems. 
 
+
 ---
 
 <p align="center">
