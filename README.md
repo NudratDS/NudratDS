@@ -1,4 +1,4 @@
-![Nudrat Abbas Banner](https://github.com/NudratDS/NudratDS/blob/main/WhatsApp%20Image%202026-04-14%20at%203.00.29%20PM.jpeg)
+![Nudrat Abbas Banner](https://github.com/NudratDS/NudratDS/blob/main/WhatsApp%20Image%202026-08-27%20at%204.14.09%20PM%20(2).jpeg)
 
 <h1 align="center">Hi, I'm Nudrat Abbas </h1>
 
