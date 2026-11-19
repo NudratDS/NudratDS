@@ -1,111 +1,90 @@
-![Nudrat Abbas Banner](https://github.com/NudratDS/NudratDS/blob/main/WhatsApp%20Image%202026-08-27%20at%204.14.09%20PM%20(2).jpeg)
+![Nudrat Abbas Banner](https://github.com/NudratDS/NudratDS/blob/main/WhatsApp%20Image%202026-11-18%20at%204.40.54%20PM%20(1).jpeg?raw=true)
 
-<h1 align="center">Hi, I'm Nudrat Abbas </h1>
+<h1 align="center">Hi, I'm Nudrat Abbas.</h1>
 
 <p align="center">
-  <b>Healthcare Data Scientist · Founder @ Third Decimal</b><br>
-  Turning messy clinical data into decisions that actually matter.
+  <b>Research · Writing · Data</b><br>
+  Turning messy information, open data, and policy questions into clear evidence people can actually use.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nudrat-abbas-664378324/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.kaggle.com/nudratabbas">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
-  <a href="mailto:contact@nudratabbas.com">
-    <img src="https://img.shields.io/badge/Email-C9A227?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://nudratds.github.io">
+    <img src="https://img.shields.io/badge/Website-800020?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
-  <a href="https://nudratabbas.com">
-    <img src="https://img.shields.io/badge/Website-0C0C0C?style=for-the-badge&logo=google-chrome&logoColor=C9A227"/>
-  </a>
-   <a href="https://wa.me/message/X2LUPKGE7KJYE1">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp"/>
-  </a>
-
 </p>
 
+---
+
+## A Little About Me
+
+I'm a 21-year-old researcher, writer, and **Kaggle Datasets Grandmaster (Top 4 globally)** who loves digging into complex topics, checking the numbers, and turning raw information into work that drives real decisions.
+
+My focus sits at the intersection of **research, dataset curation, and evidence-based writing**—with a deep commitment to **child rights**, **public health**, and **social impact**. Whether I'm building a structured dataset from scratch or synthesizing policy literature, I care about clarity, rigor, and work that holds up under scrutiny.
+
+> *Good research doesn't just collect facts—it makes hard questions easier to answer and easier to act on.*
 
 ---
 
-## What I Do 
+## What I Work On
 
-I'm a healthcare data scientist and Kaggle GrandMaster ranked #12 of 9,206 globally. I don't build dashboards nobody looks at. I find what your clinic data is hiding and turn it into decisions that change outcomes. Through The Clinical Clarity System™ every clinic gets a custom solution. Not a template. HIPAA Certified. 30+ projects delivered worldwide.
+### 📊 Custom Datasets & Open Knowledge
+- Sourcing, structuring, and cleaning messy real-world and domain datasets
+- Designing clear schemas, metadata, and thorough documentation for reproducible research
+- Publishing open datasets for public health, policy, and analytical exploration
 
-**Currently open to:**
-- Collaborating on healthcare data projects
-- Clinical ML research contributions  
-- Open source healthcare analytics tools
-- EHR data analysis and modelling
+### 📝 Research & Policy Writing
+- Evidence synthesis, literature reviews, and secondary research
+- Policy briefs, analytical reports, and structured long-form articles
+- Translating dense technical or academic findings into clear, readable prose
 
-> *If you're working on something in healthcare data, 
-> readmission prediction, fraud detection, patient 
-> retention, clinical NLP or population health.
-> I want to hear about it.*
->
-> **DM me or open an issue. I respond fast.** 
+### 🌍 Impact & Domain Focus
+- **Child Rights & Child Protection** — equitable outcomes, safety, and policy evidence
+- **Public Health & Health Systems** — population trends, access, and data-informed care
+- **Global Development & Evidence-Based Policy** — actionable insights for mission-driven teams
 
 ---
 
-##  Tech Stack
+## Snapshot
+
+| Focus Area | Highlights |
+| :--- | :--- |
+| **Kaggle Datasets** | Top 4 globally · Custom dataset design, cleaning & documentation |
+| **Research & Writing** | Policy briefs · Literature reviews · Analytical & technical writing |
+| **Core Causes** | Child Rights · Public Health · Global Development & Social Impact |
+| **Standards & Ethics** | HIPAA Certified · Source verification · Reproducible workflows |
+
+---
+
+## Tools & Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-##  Credentials
+## Let's Connect
 
-| | |
-|---|---|
-|  Kaggle GrandMaster | Ranked 12th of 9,206 globally |
-|  Projects | 30+ healthcare projects delivered worldwide |
-|  Clients | Clinics · Hospitals · Health Groups · Care Networks |
-|  Compliance | HIPAA · Clinical Data Standards |
+Always down to collaborate with researchers, writers, analysts, NGOs, and builders working on **child rights**, **public health**, **policy**, or **open data**.
 
----
-
-## Featured Projects
-
-**DenialIQ** Predicting claim denials before submission. Real revenue leakage prevention.
-
-**Skin Cancer Classification** 94% accuracy on HAM10k. 7 classes. Live demo on HuggingFace.
-
-**Hospital Readmission Prediction**  MIMIC-III data. XGBoost + LightGBM. 47 clinical features.
-
-**ClinicalDx**  Discharge notes to ICD-10 codes using NLP and LLMs.
-
----
-
-##  Let's Collaborate
-
-I also create custom clinical datasets for healthcare AI models, readmission prediction, fraud detection, dischargesummaries, ICD coding, LOS optimization.
-
-If you're building something in healthcare data and need a specialist who understands both the clinical side and the data science side:
-
-
-**→ Open an issue on any repo**
-**→ Or email: contact@nudratabbas.com**
-**→Or 💬 wa.me/message/X2LUPKGE7KJYE1**
-
-
-I'm always open to projects that solve real problems 
-inside real healthcare systems. 
-
+- 🌐 **Portfolio:** [nudratds.github.io](https://nudratds.github.io)
+- 💼 **LinkedIn:** [nudrat-abbas-664378324](https://www.linkedin.com/in/nudrat-abbas-664378324/)
+- 📦 **Kaggle:** [kaggle.com/nudratabbas](https://www.kaggle.com/nudratabbas)
 
 ---
 
 <p align="center">
-  <i>"Strategy Sharpened to the Third Decimal"</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NudratDS&color=C9A227&style=for-the-badge" alt="Profile Views"/>
+  <i>Every claim cited. Every number checked.</i><br><br>
+  <b>Building towards the UN. 🌍</b><br><br>
+  <img src="https://komarev.com/ghpvc/?username=NudratDS&color=800020&style=flat-square" alt="Profile Views"/>
 </p>
